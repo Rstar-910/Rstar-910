@@ -5,8 +5,6 @@
 
 ---
 
-# 👋 Hey there! I'm Rahul Soni
-
 🎯 **Aspiring Generative AI Developer | ML Enthusiast | Problem Solver**
 
 Welcome to my GitHub! I'm passionate about building intelligent systems that create, learn, and solve real-world problems — especially with Generative AI and large language models (LLMs). I'm currently exploring the intersection of **AI, NLP, and human-centered systems** to develop creative and impactful solutions.
