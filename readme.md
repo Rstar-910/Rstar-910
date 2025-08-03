@@ -66,7 +66,7 @@ Welcome to my GitHub! I'm passionate about building intelligent systems that cre
   <img src="https://img.shields.io/badge/Evaluation%20(F1%2C%20EM%2C%20BLEU)-4CAF50?style=for-the-badge&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-2196F3?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Database%20Management%20Systems-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Operating%20Systems-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-003B57?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 
