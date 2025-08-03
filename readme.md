@@ -1,3 +1,10 @@
+<!-- Profile Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&color=1BA1F3&width=800&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Rahul+Soni;Aspiring+Generative+AI+Developer;ML+%7C+RAG+%7C+LLM+%7C+NLP+Explorer" />
+</div>
+
+---
+
 # 👋 Hey there! I'm Rahul Soni
 
 🎯 **Aspiring Generative AI Developer | ML Enthusiast | Problem Solver**
@@ -8,61 +15,75 @@ Welcome to my GitHub! I'm passionate about building intelligent systems that cre
 
 ## 🚀 Current Focus
 
-- 🔬 Fine-tuning and deploying **LLMs** (e.g., T5, BERT, Mistral) for real-world use cases
-- 🧠 Experimenting with **Retrieval-Augmented Generation (RAG)** for domain-specific tasks
-- 📊 Building tools for **perspective-aware summarization**, Q&A systems, and reasoning
-- 🧰 Exploring **Unsloth**, **LoRA**, and **efficient training** methods for GenAI on low-resource setups
+- 🔧 **Fine-Tuning Language Models**  
+  Exploring techniques like LoRA, PEFT, and Unsloth to fine-tune models (e.g., `flan-T5`, `mDeBERTa`, `LLaMA`) on domain-specific tasks with limited compute.
+
+- 📚 **Building Retrieval-Augmented Generation (RAG) Pipelines**  
+  Designing end-to-end GenAI systems that combine vector databases (FAISS, ChromaDB) with LLMs for context-aware summarization and question answering.
+
+- 🧠 **Prompt Engineering & Zero-shot Learning**  
+  Experimenting with effective prompting strategies for span extraction, summarization, and reasoning tasks, especially in low-data settings.
+
+- ⚙️ **Optimizing Inference & Deployment**  
+  Using lightweight model serving and APIs (OpenAI, HuggingFace Inference API, FastAPI) to build fast, scalable GenAI tools.
+
+- 📈 **Evaluating Model Performance**  
+  Benchmarking models using task-specific metrics like F1, Exact Match (EM), BLEU, and conducting error analysis for iteration and improvement.
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages & Tools**  
-`Python` • `PyTorch` • `HuggingFace Transformers` • `Scikit-learn` • `LangChain` • `Flask` • `Git`  
-`FAISS / ChromaDB` • `OpenAI APIs` • `Pinecone` • `Weights & Biases` • `CPP`
-
-**Concepts**  
-`Large Language Models (LLMs)` • `Transfer Learning` • `RAG Pipelines` • `Prompt Engineering`  
-`Vector Databases` • `LLM Fine-tuning` • `ML Ops` • `Evaluation Metrics (F1, EM, BLEU)` • `Data Structures and Algorithms`
-`Database Management Systems`
-
----
-
-## 📁 Featured Projects
-
-- 💬 **Chat-Assisted SQLite Interface**: Natural language chatbot to query SQLite databases using LLaMA-based models  
-  _Flask • LangChain • LLM APIs • Frontend Integration_
-
-- 🧠 **Perspective-Aware Answer Span Extractor**  
-  _Fine-tuned FLAN-T5 on medical CQA dataset to identify opinion-specific spans_  
-  _Zero-shot + fine-tuned evaluation using F1/EM_
-
-- 🧪 **Carbon Footprint Predictor**  
-  _ML regression project predicting monthly household carbon footprint based on lifestyle patterns_  
-  _R² Score-Based Optimization_
-
-➡️ _More coming soon — stay tuned!_
-
----
-
-## 📈 GitHub Stats
+## 🧠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rstar-910&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rstar-910&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-%23FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 🧪 Featured Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🧠 [Medium / Blog](https://your-blog.medium.com) (coming soon)  
-- ✉️ Email: `rahul.yourmail@example.com`  
+### 💬 Chat-Assisted SQLite Interface
+Natural language chatbot to query SQLite databases using LLaMA-based models  
+> _Built with Flask • LangChain • LLM APIs • Frontend Integration_
+
+### 🧠 Perspective-Aware Span Extractor  
+Fine-tuned `mDeBERTa` to identify perspective-specific spans in medical QA data  
+> _Combines fine-tuned & zero-shot methods with F1/EM evaluation_
+
+### 🌱 Carbon Footprint Predictor  
+ML regression project to predict monthly household carbon footprint  
+> _Evaluated using scaled R² score_
+
+➡️ _More in progress — stay tuned!_
 
 ---
 
-_“The best way to predict the future is to build it.” – Alan Kay_
+## 📊 GitHub Stats
 
-Thanks for stopping by! 🌟
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rstar-910&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rstar-910&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:rahul.yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://your-blog.medium.com"><img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+  <b>“The best way to predict the future is to build it.” – Alan Kay</b>  
+  <br>✨ Thanks for visiting!
+</div>
