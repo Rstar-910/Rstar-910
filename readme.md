@@ -110,7 +110,7 @@ YOLOv8-based real-time system to detect constellations using astronomical datase
 <p align="center">
   <a href="mailto:rahul2479soni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rahul-soni-3495b829a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://portfolio-theta-eight-m56z2478y8.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
