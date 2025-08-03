@@ -89,9 +89,7 @@ Natural language chatbot to query SQLite databases using LLaMA-based models
 
 ### 🌌 [Real-Time Constellation Predictor](https://github.com/TanmayGupta-play/Constellation_predictor)
 YOLOv8-based real-time system to detect constellations using astronomical datasets  
-> _Trained using Roboflow datasets • Deployed with CV2 and PyTorch_  
-> _Application: Astronomy, AR Star Mapping, Educational Tools_
-
+> _Built during a hackathon • Uses Roboflow datasets • Features GPS, Whisper & IAU database_
 ---
 
 ### 🌱 [Carbon Footprint Predictor](https://github.com/your-username/carbon-footprint-predictor)  
