@@ -68,6 +68,7 @@ Welcome to my GitHub! I'm passionate about building intelligent systems that cre
   <img src="https://img.shields.io/badge/Evaluation%20(F1%2C%20EM%2C%20BLEU)-4CAF50?style=for-the-badge&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-2196F3?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Database%20Management%20Systems-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 
@@ -75,20 +76,20 @@ Welcome to my GitHub! I'm passionate about building intelligent systems that cre
 
 ## 🧪 Featured Projects
 
-### 🧠 [Perspective Answer Summarization (NAACL 2025)](https://github.com/your-username/perspective-summarization)
+### 🧠 [Perspective Answer Summarization (NAACL 2025)](https://github.com/Rstar-910/Perspective-Answer-Summarizer-NAACL-Task-A-and-Task-B-)
 Fine-tuned T5 to identify perspective-specific spans in medical QA data  
 > _Combines fine-tuned & zero-shot methods with F1/EM evaluation_  
-> _Model: `mDeBERTa` • Evaluation: EM/F1_
+> _Model: `Flan-T5` • Evaluation: EM/F1_
 
 ---
 
-### 💬 [Chat-Assisted SQLite Interface](https://github.com/your-username/sqlite-chat-interface)
+### 💬 [Chat-Assisted SQLite Interface](https://github.com/Rstar-910/Chat-Assistance-for-SQLite-databse)
 Natural language chatbot to query SQLite databases using LLaMA-based models  
 > _Built with Flask • LangChain • OpenAI/LLaMA APIs • Frontend Integration_
 
 ---
 
-### 🌌 [Real-Time Constellation Predictor](https://github.com/your-username/constellation-predictor)
+### 🌌 [Real-Time Constellation Predictor](https://github.com/TanmayGupta-play/Constellation_predictor)
 YOLOv8-based real-time system to detect constellations using astronomical datasets  
 > _Trained using Roboflow datasets • Deployed with CV2 and PyTorch_  
 > _Application: Astronomy, AR Star Mapping, Educational Tools_
@@ -121,7 +122,6 @@ ML regression project to predict monthly household carbon footprint
 <p align="center">
   <a href="mailto:rahul2479soni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rahul-soni-3495b829a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://your-blog.medium.com">Coming Soon<img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 ---
