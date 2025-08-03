@@ -32,17 +32,44 @@ Welcome to my GitHub! I'm passionate about building intelligent systems that cre
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🛠️ Tech Stack
+
+### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-%23FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-%23FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-00A86B?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-33CC99?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge&logo=wandb&logoColor=black" />
 </p>
+
+---
+
+### 📘 Concepts
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-800080?style=for-the-badge&logo=bigbang&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transfer%20Learning-004E7C?style=for-the-badge&logo=knowledgebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-006666?style=for-the-badge&logo=synology&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6A1B9A?style=for-the-badge&logo=prompt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-4169E1?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fine--Tuning%20LLMs-283593?style=for-the-badge&logo=tunein&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML%20Ops-1793D1?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Evaluation%20(F1%2C%20EM%2C%20BLEU)-4CAF50?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-2196F3?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database%20Management%20Systems-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
 
 ---
 
